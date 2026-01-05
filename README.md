@@ -150,6 +150,6 @@ Use responsibly.
 
 ## 👤 Author
 
-Developed by **Kumar** 🚀
+Developed by **Simhadri** 🚀
 
 Feel free to extend or customize this tool for your own network diagnostics.
